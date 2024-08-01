@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\dbFirst\Task.Service\bin\Debug\net6.0\Task.Service.deps.json
+C:\Users\User\Downloads\dbFirst\Task.Service\bin\Debug\net6.0\Task.Service.dll
+C:\Users\User\Downloads\dbFirst\Task.Service\bin\Debug\net6.0\Task.Service.pdb
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.AssemblyInfo.cs
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.dll
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\refint\Task.Service.dll
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.pdb
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\ref\Task.Service.dll
+C:\Users\User\Downloads\dbFirst\Task.Service\bin\Debug\net6.0\Task.Common.dll
+C:\Users\User\Downloads\dbFirst\Task.Service\bin\Debug\net6.0\Tasl.Repository.dll
+C:\Users\User\Downloads\dbFirst\Task.Service\bin\Debug\net6.0\Task.Common.pdb
+C:\Users\User\Downloads\dbFirst\Task.Service\bin\Debug\net6.0\Tasl.Repository.pdb
+C:\Users\User\Downloads\dbFirst\Task.Service\obj\Debug\net6.0\Task.Service.csproj.CopyComplete
