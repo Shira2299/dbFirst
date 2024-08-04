@@ -25,5 +25,14 @@ namespace Task.Service.Services
         {
             return _mapper.Map<List<UserDTO>>(await _userRepository.GetAllAsync());
         }
+
+        public async Task<UserDTO> UpdateAsync(UserDTO u)
+        {
+            return _mapper.Map<UserDTO>(await _userRepository.UpdateAsync(_mapper.Map<User>(u)));
+            //הגישה הזו מאפשרת לך לשמור על הפרדה ברורה בין שכבות המערכת שלך ולהשתמש 
+            //ב-DTOs 
+            //להעברת נתונים בין שכבות מבלי לחשוף את הישויות הפנימיות שלך ישירות.
+        }
+
     }
 }

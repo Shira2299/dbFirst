@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddServices();
 //builder.Services.AddScoped(typeof(IUserService<UserDTO>), typeof(UserService));
-
+builder.Services.AddHttpContextAccessor();//add for System.Web.HttpContext.Current.User.Identity.Name;
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

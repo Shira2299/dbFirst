@@ -20,5 +20,12 @@ namespace Tasl.Repository.Repository
         {
             return await _tasksContext.Users.ToListAsync();
         }
+
+        public async Task<User> UpdateAsync(User r)
+        {
+            var user = _tasksContext.Users.Update(r);
+            await _tasksContext.SaveChangesAsync();
+            return user.Entity;
+        }
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\dbFirst\\Task.Common\\Task.Common.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\dbFirst\\Task.Common\\Task.Common.csproj",
       "projectName": "Task.Common",
-      "projectPath": "C:\\Users\\User\\Downloads\\dbFirst\\Task.Common\\Task.Common.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\dbFirst\\Task.Common\\Task.Common.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\dbFirst\\Task.Common\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\dbFirst\\Task.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

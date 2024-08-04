@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mFkm6Hi3FvVTSYu/tBS70bDQw6pZFeTmBHw1PGx2rvqdr0ylWalahkaqzri/sOLzPjeAWWCiXrny7oCmxE0bGg==",
+  "dgSpecHash": "Jr/EFXM4f6abkSgz8DcmSFbel3tDuUusFQjxreeNoUgdLcISwhbClbEBMrgOg629VU+GRqdiz8AZmGe02QS9Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\dbFirst\\Task.Service\\Task.Service.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\dbFirst\\Task.Service\\Task.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

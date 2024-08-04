@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj": {}
+    "C:\\Users\\User\\Desktop\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj": {
+    "C:\\Users\\User\\Desktop\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj",
         "projectName": "Tasl.Repository",
-        "projectPath": "C:\\Users\\User\\Downloads\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\dbFirst\\Tasl.Repository\\Tasl.Repository.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\dbFirst\\Tasl.Repository\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\dbFirst\\Tasl.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
